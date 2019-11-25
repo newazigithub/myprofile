@@ -1,0 +1,45 @@
+ <html>
+<head>
+ <title>Sha Newazi</title>
+</head>
+<body bgcolor="#B0E0E6">
+
+ 
+<h1><font face="script" size="5" color="blue">Sha Newazi</font></h1>
+ 
+<img src="mypic.gif" align="right">
+<p>Bachelor of computer science
+<br>United International University
+<br>Course:Introduction to computer system
+
+
+<p>Education:</p>
+<table border=“1”>
+ <tr>
+ <th>School</th>
+ <th>Degree</th>
+ </tr>
+ 
+ <tr>
+ <td><a href="https://www.facebook.com/MGBHS/?__tn__=%2Cd%2CP-R&eid=ARAmHpz3VmL4tueTafOTCkmLnu7U7B2MMSAl7OWhGbLMOvsAeExOiB56ErXvyp46czNJUr_4hYXngiX-" />Government Boys High School,Manikganj</td>
+ <td>Secondary School Certificate</td>
+ </tr>
+</table>
+
+<table border=“1”>
+ <tr>
+ <th>College</th>
+ <th>Degree</th>
+ </tr>
+ 
+ <tr>
+ <td><a href="https://www.facebook.com/Govt-Devendra-University-College-Manikganj-721102364596952/?__tn__=%2Cd%2CP-R&eid=ARDAMH1PTgaJJE-3a4Hk2YR9DYONmd4xue6GY-P3eh4iWgVmhnjlT6t_8jc9ok5tBfOtJLQFHP6uE7Eb">Government Debendra College,Manikganj</td>
+ <td>Higher Secondary School Certificate</td>
+ </tr>
+</table>
+
+<p>Why i choae CSE?</p>
+<p>The most important aspect of computer science is problem solving, an essential skill for life.I like solving problem and i want to be an software developer.</p>
+
+</body>
+</html>
